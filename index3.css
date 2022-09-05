@@ -1,0 +1,79 @@
+
+.display1
+{    
+    overflow:hidden;
+    text-align:end;    
+    background-color: grey;
+    border-radius: 40px;
+    padding-top: 30px;
+    height: 100px;
+    width: 212px;
+    color: blue;
+    text-size-adjust: 1000px;
+}
+
+.botaoCinza
+{
+    color: blue;
+    text-align: center;
+    border-radius: 40px;
+    background-color:grey;
+    border-color: rgb(86, 226, 43);
+    height: 50px;
+    width:  50px;
+    margin: auto;
+}
+
+.botaoLaranja
+{    
+    color: blue;
+    text-align: center;
+    border-radius: 40px;
+    background-color:rgb(265, 165, 0);
+    border-color: rgb(86, 226, 43);
+    height: 50px;
+    width:  50px;
+ }
+
+.body
+{
+ background-color: black;
+ width: 100%;
+ height: 100%;
+}
+
+.divPosition
+{     
+    background-color: cornflowerblue;
+    border-style: solid;
+    border-radius: 40px;
+    border-color: chartreuse;
+    width: 212px;
+    height: 400px;
+    position: absolute;
+    top: 50%;;
+    left: 50%;
+    margin: -100px;
+    margin-left: -100px;
+}
+
+.botaoZero
+{   
+    color: blue;
+    text-align: "left";
+    border-radius: 40px;
+    background-color:grey;
+    border-color: rgb(86, 226, 43);
+    height: 45px;
+    width: 104px;
+    text-align: left;
+    text-indent: 15px;
+}
+
+.divs
+
+{
+width: 212px;
+height: 50px;
+margin: 0;
+}
